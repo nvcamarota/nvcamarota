@@ -1,22 +1,22 @@
 <div id="header" align="center">
     <h1 align="center">¡Hola! Soy Nazarena 👋</h1>
-    <h4>Soy una programadora•desarrolladora métodica, diligente y detallista, que busca constantemente superarse.<br>Me encuentro en la búsqueda de retos que me lleven a recurrir a mis conocimientos para su puesta en práctica, creando códigos funcionales y prolijos.</h4>
+    <h4>Soy una desarrolladora métodica, diligente y detallista, que busca constantemente superarse.<br>Me encuentro en la búsqueda de retos que me lleven a recurrir a mis conocimientos para su puesta en práctica, creando códigos funcionales y prolijos.</h4>
     <br>
-    <img align="center" width=100% src="/img/nvc_card.png" margin-top="20px" margin-bottom="20px">
+    <img align="center" width=90% src="/img/nvc_card.png" margin-top="20px" margin-bottom="20px">
 </div>
 <div id="contactos">
     <h3 align="center">Mis contactos</h3>
 <div align="center">
     <a href="https://github.com/nvcamarota">
-        <img src="https://img.shields.io/github/followers/nvcamarota?color=fbbd0a&logo=github&style=for-the-badge" alt="">
+        <img src="https://img.shields.io/github/followers/nvcamarota?color=fbbd0a&logo=github&style=for-the-badge" alt="GitHub's Followers">
     </a>
     <a href="https://www.linkedin.com/in/nazarena-camarota/">
-        <img src="https://img.shields.io/badge/LinkedIn-0073b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/LinkedIn-0073b2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:nvcamarota.dev@gmail.com?subject=Propuesta%20de%20trabajo"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=34a853&logoColor=white&labelColor=&style=for-the-badge">
+    <a href="mailto:nvcamarota.dev@gmail.com?subject=Propuesta%20de%20trabajo"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=34a853&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail">
     </a>
     <a href="https://www.instagram.com/nvc.exe">
-        <img src="https://img.shields.io/badge/Instagram-d82678?style=for-the-badge&logo=instagram&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Instagram-d82678?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </div>
 
@@ -25,7 +25,8 @@
 ### 💬 Sobre mí:
 
 - 👾 Certificada por Digital House en Programación Web Full Stack (2023). 
-- 🐍 Me encuentro aprendiendo Python en Ada ITW.
+- 🐍 Certificada por Ada ITW en Programación con Python (2025).
+- 📚 Me encuentro brindando tutoría académica de Python en PlugIT.
 - 📍 Actualmente resido en Buenos Aires, Argentina.
 
 
