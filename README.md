@@ -2,7 +2,7 @@
     <h1 align="center">¡Hola! Soy Nazarena 👋</h1>
     <h4>Soy una desarrolladora métodica, diligente y detallista, que busca constantemente superarse.<br>Me encuentro en la búsqueda de retos que me lleven a recurrir a mis conocimientos para su puesta en práctica, creando códigos funcionales y prolijos.</h4>
     <br>
-    <img align="center" width=90% src="/img/nvc_card.png" margin-top="20px" margin-bottom="20px">
+    <img align="center" width=650px src="/img/nvc_card.png" margin-top="20px" margin-bottom="20px">
 </div>
 <div id="contactos">
     <h3 align="center">Mis contactos</h3>
